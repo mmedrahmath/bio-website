@@ -10,12 +10,13 @@ body {
 
 /* A container to center our content and limit its width */
 .container {
-    max-width: 800px; /* The content won't get wider than 800px */
-    margin: 0 auto; /* This centers the container horizontally */
+    max-width: 800px;
+    margin: 0 auto;
     padding: 40px;
-    background-color: rgba(255, 165, 0, 0.2); /* White background for the content area */
-    border-radius: 8px; /* Slightly rounded corners */
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* A subtle shadow effect */
+    background-color: transparent; /* Let the orange body show fully */
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+
 }
 
 /* Styling for the main heading (your name) */
