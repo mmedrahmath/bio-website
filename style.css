@@ -13,7 +13,7 @@ body {
     max-width: 800px; /* The content won't get wider than 800px */
     margin: 0 auto; /* This centers the container horizontally */
     padding: 40px;
-    background-color: #ffffff; /* White background for the content area */
+    background-color: transprent; /* White background for the content area */
     border-radius: 8px; /* Slightly rounded corners */
     box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* A subtle shadow effect */
 }
